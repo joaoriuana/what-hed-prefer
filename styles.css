@@ -1,0 +1,17 @@
+.textInput{
+    min-width: 200px;
+    max-width: 500px;
+    margin: 20px 0;
+    padding: 10px;
+}
+.paragraph{
+    border: 1px solid black;
+    min-width: 200px;
+    max-width: 500px;
+    min-height: 100px;
+    overflow-wrap: break-word;  
+    word-wrap: break-word; 
+    word-break: break-word;
+    padding: 10px;
+}
+
